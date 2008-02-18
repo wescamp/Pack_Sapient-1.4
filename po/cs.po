@@ -1,12 +1,14 @@
 # translation of Pack_Sapient-cs.po.bz2_[fFG1Ia].po to Czech
+#
 # Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006.
-# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007
+# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007, 2008.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-02-17 01:17+0100\n"
-"PO-Revision-Date: 2007-03-18 11:16+0100\n"
+"PO-Revision-Date: 2008-02-18 23:43+0100\n"
 "Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +16,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: KBabel 1.11.2\n"
-"X-Poedit-Basepath: D:\\Hry\\Wesnoth\\1.2.2\\userdata\\data\\campaigns\n"
+"X-Poedit-Basepath: D:\\Dokumenty\\Translations\\Wescamp\\branches\\1.4"
+"\\Pack_Sapient\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
@@ -31,14 +36,12 @@ msgstr ""
 "svatyni v upomínku jejich slávy. (Doporučené nastavení 1 zlatý na vesnici)"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:24
-#, fuzzy
 msgid "South"
-msgstr "jih"
+msgstr "Jih"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:36
-#, fuzzy
 msgid "North"
-msgstr "sever"
+msgstr "Sever"
 
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:43
 msgid "Recommended setting: 1gpv"
@@ -152,9 +155,8 @@ msgid "Press the Darkness Rune"
 msgstr "Stisknu runu temnoty"
 
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:9
-#, fuzzy
 msgid "4p - Northerners RPG"
-msgstr "4p - Severské RPG"
+msgstr "4p - Seveřanské RPG"
 
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
 msgid "A multiplayer map for the Northerners in an RPG-style scenario."
@@ -171,7 +173,7 @@ msgstr "Lotosový květ"
 # zen?
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:43
 msgid "The Lotus heightens zen; ranged weapons are faster."
-msgstr "Lotos zvyšuje zen; dodává střelám sílu a rychlost."
+msgstr "Lotos zvyšuje zen; dodává střelám rychlost."
 
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:44
 msgid "I hate flowers!"
@@ -220,19 +222,19 @@ msgstr "dráp liche"
 
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:261
 msgid "Orcish Grunt"
-msgstr ""
+msgstr "Skřetí pěšák"
 
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:276
 msgid "Troll Whelp"
-msgstr ""
+msgstr "Trollí mládě"
 
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:290
 msgid "Orcish Archer"
-msgstr ""
+msgstr "Skřetí lučištník"
 
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:304
 msgid "Orcish Assassin"
-msgstr ""
+msgstr "Skřetí vrah"
 
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:434
 msgid "quick"
@@ -248,11 +250,11 @@ msgstr "Prozkoumej oblast za vodopádem."
 
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:522
 msgid "Death of all characters."
-msgstr ""
+msgstr "Všichni hráči zemřou."
 
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:588
 msgid "My gold! My precious gold! Who has stolen it?"
-msgstr "Mé zlato! Mé milované zlato! kdo jej ukradl?"
+msgstr "Mé zlato! Mé milované zlato! Kdo jej ukradl?"
 
 #: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:592
 msgid "Yoink! That was easy."
@@ -362,30 +364,26 @@ msgstr "Doporučené nastavení: éra 'Věk hrdinů' a 50 zlaťáků pro start."
 msgid "Kill enemy leaders!"
 msgstr "Zabij nepřátelské vůdce!"
 
-# případná kontrola
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:5
-#, fuzzy
 msgid "6p - Royal Rumble Lava-Village"
-msgstr "Královská bitka - Lávová vesnice"
+msgstr "6p - Královská bitka - Lávová vesnice"
 
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:6
-#, fuzzy
 msgid ""
 "Six rulers vie for the control of Lava Village, where there is told to be an "
 "ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
-"\n"
 "Šest vládců soupeří o kontrolu Lávové vesnice, kde se podle legend nachází "
 "starodávná Kniha moci. (Doporučené nastavení: 30% zkušeností, 5 zlatých/"
 "vesnice)"
 
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:15
 msgid "Day"
-msgstr ""
+msgstr "Den"
 
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:23
 msgid "Night"
-msgstr ""
+msgstr "Noc"
 
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:155
 msgid "Time is shifting fast."
@@ -469,6 +467,3 @@ msgid ""
 msgstr ""
 "\n"
 "Hahaha... První! Kdo chce být další?!"
-
-#~ msgid "ambush"
-#~ msgstr "přepadení"
