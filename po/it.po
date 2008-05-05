@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-25 21:30+0200\n"
-"PO-Revision-Date: 2008-04-29 09:43+0100\n"
+"PO-Revision-Date: 2008-05-05 09:43+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -446,7 +446,7 @@ msgstr "Uccidi i comandanti nemici!"
 #. [multiplayer]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:5
 msgid "6p - Royal Rumble Lava-Village"
-msgstr "6p - Rissa reale al villaggio della lava"
+msgstr "6p - Zuffa reale al villaggio della lava"
 
 #. [multiplayer]
 #: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:6
