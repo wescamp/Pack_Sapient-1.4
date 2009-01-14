@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-04-25 21:30+0200\n"
+"POT-Creation-Date: 2008-12-05 21:50+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,12 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Tomb_of_Kings
 #: ./Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
 msgid "2p - Tomb of Kings"
 msgstr ""
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Tomb_of_Kings
 #: ./Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:6
 msgid "Long ago, two powerful kings died in a battle near this cave. All war ceased when both sides agreed to built great shrines in their honor. (Recommended setting of 1 gold per village)"
 msgstr ""
@@ -60,12 +60,12 @@ msgstr ""
 msgid "The earth shakes."
 msgstr ""
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Mega_2v2
 #: ./Pack_Sapient/scenarios/4p_Mega_2v2.cfg:9
 msgid "4p - Mega War (2v2)"
 msgstr ""
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Mega_2v2
 #: ./Pack_Sapient/scenarios/4p_Mega_2v2.cfg:11
 msgid "The kingdoms of the legs fight against those in the blaster and ear. (Recommended setting of 1 gold per village and Great War Era)"
 msgstr ""
@@ -150,77 +150,77 @@ msgstr ""
 msgid "Press the Darkness Rune"
 msgstr ""
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Northerners_RPG
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:9
 msgid "4p - Northerners RPG"
 msgstr ""
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Northerners_RPG
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
 msgid "A multiplayer map for the Northerners in an RPG-style scenario."
 msgstr ""
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_Northerners_RPG
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:10
 msgid "(Suggestion: fog of war, 1gpv, 70 turns, Use Map Settings)"
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:40
 msgid "Lotus Blossom"
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:43
 msgid "The Lotus heightens zen; ranged weapons are faster."
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:44
 msgid "I hate flowers!"
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:85
 msgid "An old suit of Armor"
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:88
 msgid "This armor is old, but it fits great! Ready for more beatings."
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:89
 msgid "The armor looks nice, but it's too bulky for me to carry."
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:140
 msgid "Holy Water"
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:143
 msgid "This water will make melee weapons holy."
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:144
 msgid "I am not suited to the use of this item! Let another take it."
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:184
 msgid "Skeletal Claw"
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:187
 msgid "You find a lich's claw, and it hovers at your side obediently."
 msgstr ""
 
-#. [object]
+#. [object]: id={ID}
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:188
 msgid "I ain't touching it."
 msgstr ""
@@ -251,7 +251,7 @@ msgstr ""
 msgid "Orcish Assassin"
 msgstr ""
 
-#. [trait]
+#. [trait]: id=quick
 #: ./Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:434
 msgid "quick"
 msgstr ""
@@ -368,43 +368,43 @@ msgstr ""
 msgid "You... look familiar. But, no! It's impossible."
 msgstr ""
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_traitors
 #: ./Pack_Sapient/scenarios/4p_Traitors_Island.cfg:9
 msgid "4p - Traitor's Island 2v2"
 msgstr ""
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_traitors
 #: ./Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
 msgid "A 'tactical nightmare' where your ally is also your comedy relief."
 msgstr ""
 
 #. [objectives]
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_traitors
 #: ./Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11 ./Pack_Sapient/scenarios/4p_Traitors_Island.cfg:26
 msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28 ./Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:157
+#: ./Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:157 ./Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
 msgid "Kill enemy leaders!"
 msgstr ""
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_The_Royal_Rumble_Lavaville
 #: ./Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:5
 msgid "6p - Royal Rumble Lava-Village"
 msgstr ""
 
-#. [multiplayer]
+#. [multiplayer]: id=multiplayer_The_Royal_Rumble_Lavaville
 #: ./Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:6
 msgid "Six rulers vie for the control of Lava Village, where there is told to be an ancient tome of power. (Suggestion: 30% exp, 5 gpv)"
 msgstr ""
 
-#. [time]
+#. [time]: id=day
 #: ./Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:15
 msgid "Day"
 msgstr ""
 
-#. [time]
+#. [time]: id=night
 #: ./Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:23
 msgid "Night"
 msgstr ""
@@ -426,17 +426,17 @@ msgid ""
 "`Note: When a leader dies, all of his troops leave the battle, unless one of them holds the book of power (which is hidden in a random village)."
 msgstr ""
 
-#. [object]
+#. [object]: id=$tomecount
 #: ./Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:311
 msgid "Dark Tome"
 msgstr ""
 
-#. [object]
+#. [object]: id=$tomecount
 #: ./Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:314
 msgid "A Dark Tome was found here."
 msgstr ""
 
-#. [object]
+#. [object]: id=$tomecount
 #: ./Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:315
 msgid "A Dark Tome was found here, but you could not understand it."
 msgstr ""
